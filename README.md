@@ -2,7 +2,7 @@
 
 An example project that accompanies my tutorial on using AWS Java Lambda and Pusher Beams for iOS Notifications.
 
-https://pusher.com/tutorials/aws-lambda-java-ios-notifications
+https://pusher.com/tutorials/push-notifications-ios-java-aws-lambda
 
 ## Getting Started
 
